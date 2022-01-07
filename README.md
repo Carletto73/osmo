@@ -1,2 +1,4 @@
 # osmo
-Osmolator for aquarium
+Osmolator for aquarium Arduino based
+
+Coming soon
