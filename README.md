@@ -13,4 +13,8 @@ The typical osmolators are just a simple relay that feed the pump when the water
 5) auto-diagnostic of power stadium inside the devise
 6) temperature sensors and FAN output in case of water too hot
 
+![IMG_1393](https://user-images.githubusercontent.com/72757865/150640367-140b3f54-3d17-47c9-b9ee-b04eb4a51fb4.JPG)
+
+![IMG_1394](https://user-images.githubusercontent.com/72757865/150640369-935a1832-1ab4-4426-bdc8-72383242a0cd.JPG)
+
 Stay tuned
