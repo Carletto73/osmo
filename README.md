@@ -17,4 +17,7 @@ The typical osmolators are just a simple relay that feed the pump when the water
 
 ![IMG_1394](https://user-images.githubusercontent.com/72757865/150640369-935a1832-1ab4-4426-bdc8-72383242a0cd.JPG)
 
+![IMG_1396](https://user-images.githubusercontent.com/72757865/150641870-ff3453e8-14f2-4b69-b100-c9004ce618eb.JPG)
+
+
 Stay tuned
